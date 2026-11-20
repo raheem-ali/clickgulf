@@ -50,8 +50,8 @@ export default function Header() {
 
       <header className="header">
         <div className="wrap header-row">
-          <Link href="/" className="wordmark" aria-label="Clickgulf home">
-            <span>Click</span>gulf
+          <Link href="/" className="wordmark" aria-label="Clicgulf home">
+            <span>Clic</span>gulf
           </Link>
 
           <nav id="main-nav" className={`nav ${menu ? "is-open" : ""}`} aria-label="Main">

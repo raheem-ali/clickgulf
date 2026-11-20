@@ -12,7 +12,7 @@ export async function POST(req: Request) {
 
   // TODO: deliver the message. Plug in Resend, Nodemailer, SendGrid, or a CRM here.
   // The receiving email address stays on the server and is never shown on the website.
-  console.log("New Clickgulf enquiry:", { name, email, company: body?.company, service: body?.service, message });
+  console.log("New Clicgulf enquiry:", { name, email, company: body?.company, service: body?.service, message });
 
   return NextResponse.json({ ok: true });
 }

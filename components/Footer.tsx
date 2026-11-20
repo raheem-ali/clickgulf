@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="wrap footer-grid">
         <div>
-          <p className="wordmark wordmark-light"><span>Click</span>gulf</p>
+          <p className="wordmark wordmark-light"><span>Clic</span>gulf</p>
           <p className="footer-note">Skids, storage tanks, weld overlay, process equipment, structural steel and plant maintenance.</p>
         </div>
         <nav aria-label="Quick links">
@@ -27,7 +27,7 @@ export default function Footer() {
           </ul>
         </nav>
       </div>
-      <div className="wrap footer-base">© {new Date().getFullYear()} Clickgulf. All rights reserved.</div>
+      <div className="wrap footer-base">© {new Date().getFullYear()} Clicgulf. All rights reserved.</div>
     </footer>
   );
 }

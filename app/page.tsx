@@ -44,10 +44,10 @@ export default function Home() {
       <section className="section">
         <div className="wrap split">
           <div>
-            <p className="eyebrow">About Clickgulf</p>
+            <p className="eyebrow">About Clicgulf</p>
             <h2>Manufacturing strength with hands-on delivery</h2>
             <p className="text">
-              Clickgulf is a manufacturing company with six integrated divisions, serving the petrochemical, oil, gas and utilities sectors.
+              Clicgulf is a manufacturing company with six integrated divisions, serving the petrochemical, oil, gas and utilities sectors.
             </p>
             <p className="text">
               Clients can buy design, fabrication, testing and delivery from one team, instead of coordinating several suppliers.
@@ -88,7 +88,7 @@ export default function Home() {
       <section className="section">
         <div className="wrap">
           <div className="head">
-            <p className="eyebrow">Why Clickgulf</p>
+            <p className="eyebrow">Why Clicgulf</p>
             <h2>Why clients choose one team for the whole job</h2>
           </div>
           <div className="grid-3">

@@ -21,7 +21,7 @@ export default function About() {
             <p className="eyebrow">Our story</p>
             <h2>Engineering strength with hands-on execution</h2>
             <p className="text">
-              Clickgulf brings six integrated divisions together: skids, weld overlay and cladding, structural steel, storage tanks, process equipment, and plant and maintenance.
+              Clicgulf brings six integrated divisions together: skids, weld overlay and cladding, structural steel, storage tanks, process equipment, and plant and maintenance.
             </p>
             <p className="text">
               Together they let a client buy design, fabrication, testing and delivery from one company. Each division works to the client’s specification and to the standards of the industries we serve.
