@@ -1,4 +1,4 @@
-import type { SceneKind } from "@/lib/services";
+type SceneKind = "weld" | "skid" | "process" | "tank" | "steel" | "plant";
 
 const ink = "rgba(6,18,66,0.62)";
 const line = "rgba(255,255,255,0.38)";
